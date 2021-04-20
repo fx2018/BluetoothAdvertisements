@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:1-51:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8d0e61318ad6ab66384877b182f1636d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/72d5bc0b88ca86235515b6986b8a1117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0b223f79cf9ad954a49433236f212dc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/926d0adedd1fd70e8c7a16b0c0f1e537/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a00cca2a90c5e24ea84c5d19e92f139/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/ec48e710219e9b7a4c64c70f7d8baaef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b06ef657cd918f4f45dbb0e6bbf1bb54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e12b902724ffa178273c2683c4405346/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/178e244769f474cd1301bd90a7cf96fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4d1a526e0a1bbc1ac912454dec6f019f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0695aa645e19a6169f5a9306510b53de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/34cc5412aec235e5be382efbd31ecf6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d8c6321a3cc8562c9b90bb630c63bdcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/69ce823eb80100d06e9f3de44a68aae1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e7c404e46da857ddbee15e6367ad9213/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8007a58aff27884e1ff84e0b7b88dad8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d0d8e3a7f46d6240dc18ef5c8f0d27af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2b3e9d7620db4c852c99ecf05947f475/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dfbcfa804d2db545f2bc5252d5a6bda9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/496b1a9f9d7c976ff890d5e359b7aef0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d74ac8508b81bbcc767d8bff3002fc7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/09199c35e8a64a214807bce9f60f167e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/113cd4d18ae6bcadaf267a9509f31ef8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3c56435cacc481644e0cecf3e7ada88c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7036925fc58f066907cb66ad20770211/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4db16a7a4bdfb8a65063870377c37d14/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a47f6496757065d817c15f6f80fa34e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a3d0fa4480465e903dcf58c2cd407f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2453b7662674f359359bd5956df22fec/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:1-51:12
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:1-51:12
+	package
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:18:5-58
+	android:versionName
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:22:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:24:5-77
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:24:22-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:26:22-78
+application
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:28:5-49:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dfbcfa804d2db545f2bc5252d5a6bda9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dfbcfa804d2db545f2bc5252d5a6bda9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:32:9-40
+activity#com.example.android.bluetoothadvertisements.MainActivity
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:33:9-40:20
+	android:label
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:38:27-74
+service#com.example.android.bluetoothadvertisements.AdvertiserService
+ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:44:9-48:19
+	android:enabled
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml:45:13-46
+uses-sdk
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8d0e61318ad6ab66384877b182f1636d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8d0e61318ad6ab66384877b182f1636d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/72d5bc0b88ca86235515b6986b8a1117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/72d5bc0b88ca86235515b6986b8a1117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0b223f79cf9ad954a49433236f212dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0b223f79cf9ad954a49433236f212dc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/926d0adedd1fd70e8c7a16b0c0f1e537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/926d0adedd1fd70e8c7a16b0c0f1e537/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a00cca2a90c5e24ea84c5d19e92f139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a00cca2a90c5e24ea84c5d19e92f139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/ec48e710219e9b7a4c64c70f7d8baaef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/ec48e710219e9b7a4c64c70f7d8baaef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b06ef657cd918f4f45dbb0e6bbf1bb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b06ef657cd918f4f45dbb0e6bbf1bb54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e12b902724ffa178273c2683c4405346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e12b902724ffa178273c2683c4405346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/178e244769f474cd1301bd90a7cf96fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/178e244769f474cd1301bd90a7cf96fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4d1a526e0a1bbc1ac912454dec6f019f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4d1a526e0a1bbc1ac912454dec6f019f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0695aa645e19a6169f5a9306510b53de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0695aa645e19a6169f5a9306510b53de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/34cc5412aec235e5be382efbd31ecf6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/34cc5412aec235e5be382efbd31ecf6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d8c6321a3cc8562c9b90bb630c63bdcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d8c6321a3cc8562c9b90bb630c63bdcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/69ce823eb80100d06e9f3de44a68aae1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/69ce823eb80100d06e9f3de44a68aae1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e7c404e46da857ddbee15e6367ad9213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e7c404e46da857ddbee15e6367ad9213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8007a58aff27884e1ff84e0b7b88dad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8007a58aff27884e1ff84e0b7b88dad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d0d8e3a7f46d6240dc18ef5c8f0d27af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d0d8e3a7f46d6240dc18ef5c8f0d27af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2b3e9d7620db4c852c99ecf05947f475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2b3e9d7620db4c852c99ecf05947f475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/35fa62cbc845fee82b72cc3a25f9c065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dfbcfa804d2db545f2bc5252d5a6bda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dfbcfa804d2db545f2bc5252d5a6bda9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/496b1a9f9d7c976ff890d5e359b7aef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/496b1a9f9d7c976ff890d5e359b7aef0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d74ac8508b81bbcc767d8bff3002fc7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d74ac8508b81bbcc767d8bff3002fc7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/09199c35e8a64a214807bce9f60f167e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/09199c35e8a64a214807bce9f60f167e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/113cd4d18ae6bcadaf267a9509f31ef8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/113cd4d18ae6bcadaf267a9509f31ef8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3c56435cacc481644e0cecf3e7ada88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/3c56435cacc481644e0cecf3e7ada88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7036925fc58f066907cb66ad20770211/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7036925fc58f066907cb66ad20770211/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4db16a7a4bdfb8a65063870377c37d14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4db16a7a4bdfb8a65063870377c37d14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a47f6496757065d817c15f6f80fa34e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/a47f6496757065d817c15f6f80fa34e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a3d0fa4480465e903dcf58c2cd407f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/49a3d0fa4480465e903dcf58c2cd407f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2453b7662674f359359bd5956df22fec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/2453b7662674f359359bd5956df22fec/AndroidManifest.xml:20:5-44
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/Downloads/connectivity-samples-main/BluetoothAdvertisements/Application/src/main/AndroidManifest.xml
