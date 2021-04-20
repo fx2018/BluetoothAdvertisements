@@ -97,7 +97,7 @@ public class AdvertiserService extends Service {
             BluetoothManager mBluetoothManager = (BluetoothManager) getSystemService(Context.BLUETOOTH_SERVICE);
             if (mBluetoothManager != null) {
                 BluetoothAdapter mBluetoothAdapter = mBluetoothManager.getAdapter();
-                mBluetoothAdapter.setName("David");
+                mBluetoothAdapter.setName("LiuX");
                 if (mBluetoothAdapter != null) {
                     mBluetoothLeAdvertiser = mBluetoothAdapter.getBluetoothLeAdvertiser();
                     Toast.makeText(this, "111", Toast.LENGTH_LONG).show();

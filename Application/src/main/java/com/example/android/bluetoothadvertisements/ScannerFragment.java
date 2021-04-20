@@ -149,7 +149,7 @@ public class ScannerFragment extends ListFragment {
 
             // Kick off a new scan.
             mScanCallback = new SampleScanCallback();
-            mBluetoothLeScanner.startScan(buildScanFilters(), buildScanSettings(), mScanCallback);
+            mBluetoothLeScanner.startScan(null, buildScanSettings(), mScanCallback);
 
             String toastText = getString(R.string.scan_start_toast) + " "
                     + TimeUnit.SECONDS.convert(SCAN_PERIOD, TimeUnit.MILLISECONDS) + " "
@@ -193,7 +193,7 @@ public class ScannerFragment extends ListFragment {
      */
     private ScanSettings buildScanSettings() {
         ScanSettings.Builder builder = new ScanSettings.Builder();
-        builder.setScanMode(ScanSettings.SCAN_MODE_LOW_POWER);
+        builder.setScanMode(ScanSettings.SCAN_MODE_BALANCED);
         return builder.build();
     }
 
