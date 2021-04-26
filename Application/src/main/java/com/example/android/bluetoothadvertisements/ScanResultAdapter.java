@@ -19,14 +19,18 @@ package com.example.android.bluetoothadvertisements;
 import android.bluetooth.le.ScanResult;
 import android.content.Context;
 import android.os.SystemClock;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
+
+import static android.content.ContentValues.TAG;
 
 /**
  * Holds and displays {@link ScanResult}s, used by {@link ScannerFragment}.
@@ -115,7 +119,36 @@ public class ScanResultAdapter extends BaseAdapter {
         } else {
             // Add new Device's ScanResult to list.
             mArrayList.add(scanResult);
+
+            Log.d(TAG, scanResult.toString());
+            // {0000b81d-0000-1000-8000-00805f9b34fb=[100, 97, 118, 105, 100, 44, 115, 98]}   {  [  ]}
+            String sevData = scanResult.getScanRecord().getServiceData().toString();
+            if(sevData != "{}") {
+                String[] sevDataArr = sevData.split("=");
+                if(sevDataArr.length >=2) {
+
+                    String[] sevDataArr1 = sevDataArr[1].split("\\[");
+                    if(sevDataArr1.length >=2) {
+                        String[] serDataArr2 = sevDataArr1[1].split("\\]");
+                        if(serDataArr2.length >=2) {
+                            Log.d(TAG, asciiToString(serDataArr2[0]));
+                        }
+
+                        Log.d(TAG, scanResult.getDevice().getAddress().toString());
+                    }
+                }
+            }
         }
+    }
+
+
+    public String asciiToString(String value) {
+        StringBuffer sbu = new StringBuffer();
+        String[] chars = value.split(",");
+        for (int i = 0; i < chars.length; i++) {
+            sbu.append((char) Integer.parseInt(chars[i]));
+        }
+        return sbu.toString();
     }
 
     /**
